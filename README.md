@@ -3,16 +3,24 @@
 ## Introduction
 
 ## Methods
-Raw short-read data for human gut microbiomes was randomly selected from samples used in a shotgun metagenomics study on 74 Italians based on dietary habits, on the National Center for Biotechnology Information (NCBI) database (University of Naples Federico II, 2017).  A total of six sets of paired-end samples were obtained, with three sets belonging to individuals with vegan diets and the other three belonging to individuals with omnivorous diets (University of Naples Federico II, 2017).  Quality control was conducted on each individual paired-end sample using FastQC (v0.12.1) to check for sources of contamination, and the reports were compiled into overall reports with MultiQC (v1.33) (, Ewels et al., 2016).  Adapters were then automatically detected and trimmed off each paired-end sample using *fastp* before repeating quality control reports a second time ().  For taxonomic classification of samples, each set of paired-end samples was classified through Kraken2 (v2.17.1) using the Standard-16 database ().  The using Bayesian Reestimation of Abundance with Kraken (Bracken) (). 
+Raw short-read data for human gut microbiomes was randomly selected from samples used in a shotgun metagenomics study on 74 Italians based on dietary habits, on the National Center for Biotechnology Information (NCBI) database (University of Naples Federico II, 2017).  A total of six sets of paired-end samples were obtained, with three sets belonging to individuals with vegan diets and the other three belonging to individuals with omnivorous diets (University of Naples Federico II, 2017).  Quality control was conducted on each individual paired-end sample using FastQC (v0.12.1) to check for sources of contamination, which were then compiled into overall reports with MultiQC (v1.33) (Andrews, 2010, Ewels et al., 2016).  Adapter content was then automatically detected and trimmed off each paired-end sample using *fastp*, before repeating quality control reports a second time (Chen et al., 2018).  Each set of paired-end samples then underwent taxonomic classification through Kraken2 (v2.1.6), which was run remotely in the Narval cluster of Digital Research Alliance of Canada (DRAC), using the Standard database ().  Finally, the sample Kraken2 reports  using Bayesian Reestimation of Abundance with Kraken (Bracken v3.0.1) and converted into BIOM files using *kraken-biom* (v1.2.0) for further taxonomic analysis (Lu et al., 2017, ).
 
-Alpha and beta diversity measures were both calculated using the *vegan* package .  For alpha diversity, the Shannon and Simpson index were used to .  Meanwhile,  
+Continuing in R (v4.5.2), all reports were imported with the *phyloseq* package (v).  Alpha and beta diversity measures were both calculated using the *vegan* package .  For alpha diversity, the Shannon and Simpson index were used to .  Meanwhile,  
 
 ## Results
 
 ## Discussion
 
 ## References
+Andrews, S. (2010). FastQC. A quality control tool for high throughput sequence data. *Babraham Bioinformatics*. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+Chen, S., Zhou, Y., Chen, Y., & Gu, J. (2018). fastp: an ultra-fast all-in-one FASTQ preprocessor. *Bioinformatics*, *34*(17), i884-i890. https://doi.org/10.1093/bioinformatics/bty560
+
+De Filippis, F., Pasolli, E., Tarallo, S., Naccarati, A., De Angelis, M., Neviani, E., Cocolin, L., Gobbetti, M., Segata, N., & Ercolini, D. (2019). Distinct Genetic and Functional Traits of Human Intestinal Prevotella copri Strains Are Associated with Different Habitual Diets. *Cell Host & Microbe*, *25*(3), 444-453.e3. https://doi.org/10.1016/j.chom.2019.01.004
+
 Ewels, P., Magnusson, M., Lundin, S., & Kaller, M. (2016). MultiQC: summarize analysis results for multiple tools and samples in a single report. *Bioinformatics*, *32*(19), 3047-3048. https://doi.org/10.1093/bioinformatics/btw354
+
+Lu, J., Breitwieser, F. P., Thielen, P., & Salzberg, S. L. (2017). Bracken: estimating species abundance in metagenomics data. *PeerJ Computer Science*, *3*, e104. https://doi.org/10.7717/peerj-cs.104
 
 University of Naples Federico II. (2017). SRX4967482: gut metagenome of vegan subject from Bari (Italy), subject ID 01BA. *NCBI*. https://www.ncbi.nlm.nih.gov/sra/SRX4967482[accn]
 
@@ -25,5 +33,3 @@ University of Naples Federico II. (2017). SRX4967471: gut metagenome of vegan su
 University of Naples Federico II. (2017). SRX4967459: gut metagenome of omnivore subject from Turin (Italy), subject ID VOV77. *NCBI*. https://www.ncbi.nlm.nih.gov/sra/SRX4967459[accn]
 
 University of Naples Federico II. (2017). SRX3463060: gut metagenome of omnivore subject from Parma (Italy), subject ID 37PR. *NCBI*. https://www.ncbi.nlm.nih.gov/sra/SRX3463060[accn]
-
-De Filippis, F., Pasolli, E., Tarallo, S., Naccarati, A., De Angelis, M., Neviani, E., Cocolin, L., Gobbetti, M., Segata, N., & Ercolini, D. (2019). Distinct Genetic and Functional Traits of Human Intestinal Prevotella copri Strains Are Associated with Different Habitual Diets. *Cell Host & Microbe*, *25*(3), 444-453.e3. https://doi.org/10.1016/j.chom.2019.01.004
