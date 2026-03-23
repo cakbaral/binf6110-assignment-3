@@ -3,6 +3,9 @@
 ## Introduction
 
 ## Methods
+A total of six sets of paired-end samples were obtained from .  Quality control was conducted on each individual sample using FastQC and MultiQC, and adapters were trimmed with *fastp*.  For taxonomic classification of samples, each set of paired-end samples was classified through Kraken2 (, which occurred remotely in the Narval cluster server of the Digital Research Alliance of Canada (DRAC).  
+
+Alpha and beta diversity measures were both calculated using the *vegan* package.  For alpha diversity, the Shannon and Simpson index were used to .  Meanwhile,  
 
 ## Results
 
