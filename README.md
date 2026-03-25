@@ -13,8 +13,10 @@ Continuing in R (v4.5.2), all BIOM reports of abundance tables from Bracken were
 
 ## Results
 
+
 <img width="1902" height="1067" alt="Relative_Abundance" src="https://github.com/user-attachments/assets/f9a29ab6-2fc2-4d79-8464-fe120b41823c" />
 
+**Figure 1**: Relative abundance of microbiome species from human gut metagenomes for Italian omnivore and vegan diets.  Classification and re-estimation steps in Kraken2/Bracken for taxa were done at species level, and the top 20 taxa across all samples were selected and filtered for visualization based on highest abundance.
 
 ## Discussion
 
