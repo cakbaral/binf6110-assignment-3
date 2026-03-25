@@ -1,7 +1,7 @@
 # binf6110-assignment-3
 
 ## Introduction
-One study conducted in 2019 by De Filippis et al., which investigated human gut microbomes of Italians using shotgun metagenomics, found that differing dietary habits can actually affect the presence of certain microbiota, especially for one prevalent species, *Prevotella copri*.  They found that this species revealed different strains at different locations based on the types of foods consumed often, such as fiber-rich or omnivorous, revealing how diet can affect diversity at even the finest levels of taxonomy (De Filippis et al., 2019).  Interestingly enough, it also appeared to suggest how diets between different types of global populations, and in turn, the composition of gut microbiota, can further affect the ability of biological processes to consume certain types of food, most notably in non-Western countries like Italy (De Filippis et al., 2019).
+One study conducted in 2019 by De Filippis et al., which investigated human gut microbomes of Italians using shotgun metagenomics, found that differing dietary habits can actually affect the presence of certain microbiota, especially for one prevalent species, *Prevotella copri*.  They found that this species revealed different strains at different locations based on the types of foods consumed often, such as fiber-rich or omnivorous, revealing how diet can affect diversity at even the finest levels of taxonomy (De Filippis et al., 2019).  Interestingly enough, it also appeared to suggest how diets between different types of global populations, and in turn, the composition of gut microbiota, can further affect the ability of biological processes to consume certain types of food, most notably in non-Western countries like Italy (De Filippis et al., 2019).  Today, this species is now referred more commonly as *Segatella copri*, in line with the reclassification of many other species of this genus, from *Prevotella* to *Segatella* (Blanco-Miguez et al., 2023, Wang et al., 2026).
 
 Studies such as these can most useful for explaining the essence of these connections between microbial taxonomy and lifestyle in human health/disease as a whole and across populations (De Filippis et al., 2019).  However, it is also important that the composition and abundance of other taxa within the diversity should be investigated more thoroughly, to understand exactly how they collectively support the necessary biological functions for food consumption and metabolism.  Hence, this taxonomic analysis seeks to expand on the significance of these connections, by applying different classification and diversity pipelines to compare how the abundances and diversity of certain microbiotic taxa in the human gut metagenomes differ across individuals with varying dietary patterns.  It will also attempt to explain how the presence and/or dominance of certain species across diets support digestive and metabolic functions and processes most associated with them.
 
@@ -23,6 +23,8 @@ Relative abundance for every sample was measured at the species level, with the 
 
 ## References
 Andrews, S. (2010). FastQC. A quality control tool for high throughput sequence data. *Babraham Bioinformatics*. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+Blanco-Miguez, A., Galvez, E. J. C., Pasolli, E., De Filippis, F., Amend, L., Huang, K. D., Manghi, P., Lesker, T. R., Riedel, T., Cova, L., Puncochar, M., Thomas, A. M., Valles-Colomer, M., Schober, I., Hitch, T. C. A., Clavel, T., Berry, S. E., Davies, R., Wolf, J., Spector, T. D., Overmann, J., Tett, A., Ercolini, D., Segata, N., & Strowig, T. (2023). Extension of the Segatella copri complex to 13 species with distinct large extrachromosomal elements and associations with host conditions. *Cell Host Microbe*, *31*(11), 1804-1819.e9. https://doi.org/10.1016/j.chom.2023.09.013
 
 Chen, S., Zhou, Y., Chen, Y., & Gu, J. (2018). fastp: an ultra-fast all-in-one FASTQ preprocessor. *Bioinformatics*, *34*(17), i884-i890. https://doi.org/10.1093/bioinformatics/bty560
 
@@ -53,5 +55,7 @@ University of Naples Federico II. (2017). SRX4967471: gut metagenome of vegan su
 University of Naples Federico II. (2017). SRX4967459: gut metagenome of omnivore subject from Turin (Italy), subject ID VOV77. *NCBI*. https://www.ncbi.nlm.nih.gov/sra/SRX4967459[accn]
 
 University of Naples Federico II. (2017). SRX3463060: gut metagenome of omnivore subject from Parma (Italy), subject ID 37PR. *NCBI*. https://www.ncbi.nlm.nih.gov/sra/SRX3463060[accn]
+
+Wang, S., Zhou, T., Wang, X., Zhao, J., & Wang, X. (2026). Bridging the gap: Prevotella/Segatella's impact on gut barrier function and advanced cultivation strategies to realize the uses in gut health. *Gut Microbes*, *18*(1), 2638001. https://doi.org/10.1080/19490976.2026.2638001
 
 Wood, D. E., Lu, J., & Langmead, B. (2019). Improved metagenomic analysis with Kraken 2. *Genome Biology*, *20*, 257. https://doi.org/10.1186/s13059-019-1891-0
