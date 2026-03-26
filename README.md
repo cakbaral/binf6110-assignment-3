@@ -29,6 +29,10 @@ Relative abundance for every sample was measured at the species level, with the 
 #### Taxonomic Species Richness - Chao1 Index
 <img width="1037" height="552" alt="Alpha_Diversity_Chao1_Index" src="https://github.com/user-attachments/assets/0a2c1698-734d-4f8e-9095-1c3b08836d7e" />
 
+### Beta Diversity
+
+### Differential Abundance - ANCOM-BC2
+
 ## Discussion
 
 ## References
