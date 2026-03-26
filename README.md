@@ -19,6 +19,16 @@ Relative abundance for every sample was measured at the species level, with the 
 
 **Figure 1**: Relative abundance of microbiome species from human gut metagenomes for Italian omnivore and vegan diets.  Classification and re-estimation steps in Kraken2/Bracken for taxa were done at the species level, and the top 20 taxa across all samples were selected and filtered for visualization based on highest abundance.
 
+### Alpha Diversity
+#### Taxonomic Species Evenness - Shannon Index
+<img width="1072" height="642" alt="Alpha_Diversity_Shannon_Index" src="https://github.com/user-attachments/assets/1ab3c12b-04e0-4808-ab19-0ba47197cd6f" />
+
+#### Taxonomic Species Dominance - Simpson Index
+<img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
+
+#### Taxonomic Species Richness - Chao1 Index
+<img width="1037" height="552" alt="Alpha_Diversity_Chao1_Index" src="https://github.com/user-attachments/assets/0a2c1698-734d-4f8e-9095-1c3b08836d7e" />
+
 ## Discussion
 
 ## References
