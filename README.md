@@ -23,21 +23,21 @@ Relative abundance for every sample was measured at the species level, with the 
 Alpha diversity was measured to quantify diversity within samples by examining the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed in Italians based on vegan and omnivore diets.
 
 #### Taxonomic Species Evenness - Shannon Index
-The Shannon index was calculated to measure the amount of even distribution  for each sample (Figure 2).
+The Shannon index was calculated to measure the amount of evenness in the overall distribution of all taxa for each sample (Figure 2).
 
 <img width="1072" height="642" alt="Alpha_Diversity_Shannon_Index" src="https://github.com/user-attachments/assets/1ab3c12b-04e0-4808-ab19-0ba47197cd6f" />
 
 **Figure 2**: Comparison of Shannon index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Dominance - Simpson Index
-Meanwhile, the Simpson index was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did so over taxa with average or lower abundance.
+Meanwhile, the Simpson index was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did so over taxa with average or lower abundance (Figure 3).
 
 <img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
 
 **Figure 3**: Comparison of Simpson index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Richness - Chao1 Index
-Finally, the Chao1 index helped 
+Finally, the Chao1 index helped to estimate and better establish overall species richness, which included both observed taxa and potentially unobserved taxa within each metagenomic sample (Figure 4).
 
 <img width="1037" height="552" alt="Alpha_Diversity_Chao1_Index" src="https://github.com/user-attachments/assets/0a2c1698-734d-4f8e-9095-1c3b08836d7e" />
 
