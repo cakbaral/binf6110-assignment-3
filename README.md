@@ -13,28 +13,32 @@ Continuing in R (v4.5.2), the BIOM report of all abundance tables from Bracken w
 
 ## Results
 ### Relative Taxonomic Abundance
-Relative abundance for every sample was measured at the species level, with the top 20 taxa being ranked by highest abundance (Figure 1).  Across all six samples, *Segatella*, previously known as *Prevotella*, appeared to be the most dominant genus, as all of the 20 taxonomic species collectively belonged to it.  In omnivore diets, the relative abundance between species looked more distributed for all the top 20 taxa, although two species, *S adolescentis* and *S. prausnitzii*, seemed to show higher relative abundance in their microbiomes.  In vegan diets, however, the abundance pattern seemed to be more distinct, as *S. copri*, the same species studied by De Filippis et al., showed a higher and more pronounced relative abundance across at least two of their samples (2019).
+Relative abundance for every sample was measured at the species level, with the top 20 taxa being ranked by highest abundance (Figure 1).  Across all six samples, *Segatella*, previously known as *Prevotella*, appeared to be the most dominant genus, as all of the 20 taxonomic species collectively belonged to it.  In omnivore diets, the relative abundance between species looked more distributed for all the top 20 taxa.  Two species, though, *S adolescentis* and *S. prausnitzii*, seemed to show higher relative abundance in their microbiomes.  In vegan diets, however, the abundance pattern seemed to be more distinct, as *S. copri*, the same species studied by De Filippis et al., showed a higher and more pronounced relative abundance across at least two of their samples (2019).
 
 <img width="1902" height="1067" alt="Relative_Abundance" src="https://github.com/user-attachments/assets/f9a29ab6-2fc2-4d79-8464-fe120b41823c" />
 
 **Figure 1**: Relative abundance of microbiome species from human gut metagenomes for Italian omnivore and vegan diets.  Classification and re-estimation steps in Kraken2/Bracken for taxa were done at the species level, and the top 20 taxa across all samples were selected and filtered for visualization based on highest abundance.
 
 ### Alpha Diversity
-Alpha diversity was measured within samples to examine the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed in Italians based on vegan and omnivore diets.
+Alpha diversity was measured to quantify diversity within samples by examining the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed in Italians based on vegan and omnivore diets.
 
 #### Taxonomic Species Evenness - Shannon Index
-The Shannon index was calculated to measure the extent to which taxa were evenly distributed in abundance across the metagenome (Figure 2).
+The Shannon index was calculated to measure the amount of even distribution  for each sample (Figure 2).
 
 <img width="1072" height="642" alt="Alpha_Diversity_Shannon_Index" src="https://github.com/user-attachments/assets/1ab3c12b-04e0-4808-ab19-0ba47197cd6f" />
 
 **Figure 2**: Comparison of Shannon index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Dominance - Simpson Index
+Meanwhile, the Simpson index was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did so over taxa with average or lower abundance.
+
 <img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
 
 **Figure 3**: Comparison of Simpson index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Richness - Chao1 Index
+Finally, the Chao1 index helped 
+
 <img width="1037" height="552" alt="Alpha_Diversity_Chao1_Index" src="https://github.com/user-attachments/assets/0a2c1698-734d-4f8e-9095-1c3b08836d7e" />
 
 **Figure 4**: Comparison of Chao1 index for human gut metagenome samples between omnivore and vegan diets.
