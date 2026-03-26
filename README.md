@@ -32,6 +32,9 @@ Relative abundance for every sample was measured at the species level, with the 
 ### Beta Diversity
 
 ### Differential Abundance - ANCOM-BC2
+<img width="1850" height="932" alt="Differential_Abundance_ANCOM-BC2" src="https://github.com/user-attachments/assets/913b8466-9d0e-42e3-b78e-48db6d720482" />
+
+
 
 ## Discussion
 
