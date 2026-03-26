@@ -45,9 +45,10 @@ Finally, the Chao1 index helped to estimate and better establish overall species
 
 ### Beta Diversity
 
-<img width="808" height="491" alt="Beta_Diversity_Jaccard" src="https://github.com/user-attachments/assets/a6a5b31f-b005-4fff-ab18-43ad9b7cb9aa" />
+<img width="1012" height="752" alt="Beta_Diversity_Jaccard" src="https://github.com/user-attachments/assets/6e931643-467f-492b-80cf-3a4bac85512f" />
 
-<img width="808" height="491" alt="Beta_Diversity_Bray-Curtis" src="https://github.com/user-attachments/assets/f9e166db-7c60-40f0-a5e0-6710a5fc6b05" />
+<img width="995" height="707" alt="Beta_Diversity_Bray-Curtis" src="https://github.com/user-attachments/assets/9f8ae070-9503-416b-955e-363e4c61300a" />
+
 
 ### Differential Abundance - ANCOM-BC2
 *Akkermansia muciniphila* & *Catenibacterium mitsuokai*
