@@ -45,7 +45,9 @@ Finally, the Chao1 index helped to estimate and better establish overall species
 
 ### Beta Diversity
 
+<img width="808" height="491" alt="Beta_Diversity_Jaccard" src="https://github.com/user-attachments/assets/a6a5b31f-b005-4fff-ab18-43ad9b7cb9aa" />
 
+<img width="808" height="491" alt="Beta_Diversity_Bray-Curtis" src="https://github.com/user-attachments/assets/f9e166db-7c60-40f0-a5e0-6710a5fc6b05" />
 
 ### Differential Abundance - ANCOM-BC2
 <img width="1850" height="932" alt="Differential_Abundance_ANCOM-BC2" src="https://github.com/user-attachments/assets/913b8466-9d0e-42e3-b78e-48db6d720482" />
