@@ -34,16 +34,18 @@ Next, the Simpson index was used to assess dominance of certain taxa in abundanc
 
 <img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
 
-**Figure 3**: Comparison of Simpson index for human gut metagenome samples between omnivore and vegan diets.
+**Figure 3**: Comparison of Simpson index for human gut metagenome samples between omnivore and vegan diets.  The mean &plusmn; SD dominance for omnivore diets was about 0.94 &plusmn; 0.03, and for vegan diets, it was about 0.89 &plusmn; 0.06.
 
 #### Taxonomic Species Richness - Chao1 Index
 Finally, the Chao1 index helped to estimate and better establish overall species richness, which included both observed taxa and potentially unobserved taxa within each metagenomic sample (Figure 4).  Interestingly, unlike the first two indices, however, the vegan group actually had a higher mean and lower SD of 463 &plusmn; 68, as opposed to the omnivore group, which had a lower mean and higher SD at 441 &plusmn; 109.  Figure 4 also showed that, for the omnivorous diets, the sample which had a higher Shannon index than the other two samples similarly also had a higher Chao1 index than them, and the spread between it and the other samples was visually a lot greater this time.  Once again, this might have pointed towards a skewed effect on mean richness.  The range for this group was from about 341 to 557, a major difference of 216.  On the other hand, the vegan group also had one sample that was different from the other two, having a lower Chao1 index than them.  However, this group's range of indices was from 386 to 514, a lower difference of 128, possibly suggesting less spread or skewedness.
 
 <img width="1037" height="552" alt="Alpha_Diversity_Chao1_Index" src="https://github.com/user-attachments/assets/0a2c1698-734d-4f8e-9095-1c3b08836d7e" />
 
-**Figure 4**: Comparison of Chao1 index for human gut metagenome samples between omnivore and vegan diets.
+**Figure 4**: Comparison of Chao1 index for human gut metagenome samples between omnivore and vegan diets.  The mean &plusmn; SD richness for omnivore diets was about 441 &plusmn; 109, while vegan diets had a higher value of 463 &plusmn; 68.
 
 ### Beta Diversity
+
+
 
 ### Differential Abundance - ANCOM-BC2
 <img width="1850" height="932" alt="Differential_Abundance_ANCOM-BC2" src="https://github.com/user-attachments/assets/913b8466-9d0e-42e3-b78e-48db6d720482" />
