@@ -23,14 +23,14 @@ Relative abundance for every sample was measured at the species level, with the 
 Alpha diversity was measured to quantify diversity within samples by examining the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed in Italians based on omnivore and vegan diets.
 
 #### Taxonomic Species Evenness - Shannon Index
-The Shannon index was calculated to measure the amount of evenness in the overall distribution of all taxa for each sample (Figure 2).  When looking at the results, the mean &plusmn; SD evenness for omnivore diets was reported at about 3.67 &plusmn; 0.32, which was somewhat higher than the evenness for vegan diets, which was about 3.22 &plusmn; 0.18.  A closer look at Figure 2 showed that all three metagenomic samples belonging to the omnnivore diet expressed higher species evenness overall than the samples belonging to the vegan diet.  In the omnivorous group, the Shannon Index ranged from about 3.45 to 4.04, a difference of 0.59.  This was due to one sample having a somewhat higher Shannon index as opposed to the other two samples, possibly highlighing a slightly skewed or inflated mean evenness.  In the vegan group, the Shannon Index ranged from 3.04 to 3.40, a difference of 0.36, but with less difference between its three samples. 
+The Shannon index was calculated to measure the amount of evenness in the overall distribution of all taxa for each sample (Figure 2).  When looking at the results, the mean &plusmn; SD evenness for omnivore diets was reported at about 3.67 &plusmn; 0.32, which was somewhat higher than the evenness for vegan diets, which was about 3.22 &plusmn; 0.18.  A closer look at Figure 2 showed that all three metagenomic samples belonging to the omnnivore diet expressed higher species evenness overall than the samples belonging to the vegan diet.  In the omnivorous group, the Shannon Index ranged from about 3.45 to 4.04, a difference of 0.59.  This was due to one sample having a somewhat higher Shannon index as opposed to the other two samples, possibly highlighing a slightly skewed or inflated mean evenness.  In the vegan group, the Shannon Index ranged from 3.04 to 3.40, a difference of 0.36.  However, there was less difference observed between its three samples. 
 
 <img width="1072" height="642" alt="Alpha_Diversity_Shannon_Index" src="https://github.com/user-attachments/assets/1ab3c12b-04e0-4808-ab19-0ba47197cd6f" />
 
 **Figure 2**: Comparison of Shannon index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Dominance - Simpson Index
-Meanwhile, the Simpson index (1 - D) was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did over taxa with average or lower abundance (Figure 3).
+Next, the Simpson index (1 - D) was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did over taxa with average or lower abundance (Figure 3).
 
 <img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
 
