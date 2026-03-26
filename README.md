@@ -20,7 +20,7 @@ Relative abundance for every sample was measured at the species level, with the 
 **Figure 1**: Relative abundance of microbiome species from human gut metagenomes for Italian omnivore and vegan diets.  Classification and re-estimation steps in Kraken2/Bracken for taxa were done at the species level, and the top 20 taxa across all samples were selected and filtered for visualization based on highest abundance.
 
 ### Alpha Diversity
-Alpha diversity was measured within samples to compare differences in the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed based on vegan and omnivore diets.
+Alpha diversity was measured within samples to examine the evenness, dominance, and richness of taxonomic species in the metagenomes.  Results were also compared between groups to evaluate how these measures differed in Italians based on vegan and omnivore diets.
 
 #### Taxonomic Species Evenness - Shannon Index
 The Shannon index was calculated to measure the extent to which taxa were evenly distributed in abundance across the metagenome (Figure 2).
