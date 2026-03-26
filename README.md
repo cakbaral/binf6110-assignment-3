@@ -50,6 +50,8 @@ Finally, the Chao1 index helped to estimate and better establish overall species
 <img width="808" height="491" alt="Beta_Diversity_Bray-Curtis" src="https://github.com/user-attachments/assets/f9e166db-7c60-40f0-a5e0-6710a5fc6b05" />
 
 ### Differential Abundance - ANCOM-BC2
+*Akkermansia muciniphilia* & *mitsuokai*
+
 <img width="1920" height="1112" alt="Differential_Abundance_ANCOM-BC2" src="https://github.com/user-attachments/assets/523699aa-85eb-487d-a3e4-80e9059dc2b6" />
 
 
