@@ -30,7 +30,7 @@ The Shannon index was calculated to measure the amount of evenness in the overal
 **Figure 2**: Comparison of Shannon index for human gut metagenome samples between omnivore and vegan diets.
 
 #### Taxonomic Species Dominance - Simpson Index
-Meanwhile, the Simpson index was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did so over taxa with average or lower abundance (Figure 3).
+Meanwhile, the Simpson index was used to assess dominance of certain taxa in abundance per sample, as well as to quantify the extent to which they did over taxa with average or lower abundance (Figure 3).
 
 <img width="1055" height="597" alt="Alpha_Diversity_Simpson_Index" src="https://github.com/user-attachments/assets/3661af22-a2a8-4ef5-b8ca-a619eb7a9077" />
 
