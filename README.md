@@ -60,12 +60,20 @@ Finally, the Chao1 index helped to estimate and better establish overall species
 ## Discussion
 This taxonomic analysis of human gut metagenomics sought to provide a more insightful context of how the abundance and diversity of many different microbiota were connected to essential biological functions of vegan and omnivorous dietary habits.  However, considering that a low sample size was often a highly major limitation in the analyses, the scope of interpretation for these results, in turn, was often difficult to justify with full confidence, making them rather less reliably effective on their own.  Nonetheless, there were still some key findings that emerged which helped to better illustrate the relevance of these other abundant taxa to human health/disease.
 
+Then, taking a further look into the alpha diversity of samples, it was determined that, on average, omnivorous samples appeared to have more species evenness in terms of abundance distribution, as well as strong dominance of one or more taxa, according to the Shannon and Simpson indices respectively.  However, it was the vegan samples that seemed to show more species richness on average when investigating the Chao1 index.
+
+For beta diversity, 
+
+Lastly, the differential abundance analysis revealed a mostly distinct separation in taxa abundance between the vegan and omnivorous groups.  Once again, though, they, along with all other taxa, were not proven statistically significant, so it was not possible to evaluate true significance of these differences.  All the same, though, it was still possible to understand how these findings were tied to existing trends or connections to the scientific literature on health and disease.  For vegan diets, the results suggested that *Akkermansia muciniphila* was the most enriched taxon for its group.  *A. muciniphila* is a very essential bacterium that resides in the gastrointestinal gut, responsible for the degradation of a protective mucus layer known as mucin (Collado et al., 2007).  It has been found to inhabit and colonize this area of the digestive system as early as infant stages, and its role in mucin degradation helps to release nutrients from the layer that are essential for the growth of other necessary microbiota in this environment (Collado et al., 2007).  Mucin itself, .  On the other hand, for omnivorous diets, the results suggested *Catenibacterium mitsuokai* as the most abundant in comparison.
+
 ## References
 Andrews, S. (2010). FastQC. A quality control tool for high throughput sequence data. *Babraham Bioinformatics*. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 Blanco-Miguez, A., Galvez, E. J. C., Pasolli, E., De Filippis, F., Amend, L., Huang, K. D., Manghi, P., Lesker, T. R., Riedel, T., Cova, L., Puncochar, M., Thomas, A. M., Valles-Colomer, M., Schober, I., Hitch, T. C. A., Clavel, T., Berry, S. E., Davies, R., Wolf, J., Spector, T. D., Overmann, J., Tett, A., Ercolini, D., Segata, N., & Strowig, T. (2023). Extension of the Segatella copri complex to 13 species with distinct large extrachromosomal elements and associations with host conditions. *Cell Host Microbe*, *31*(11), 1804-1819.e9. https://doi.org/10.1016/j.chom.2023.09.013
 
 Chen, S., Zhou, Y., Chen, Y., & Gu, J. (2018). fastp: an ultra-fast all-in-one FASTQ preprocessor. *Bioinformatics*, *34*(17), i884-i890. https://doi.org/10.1093/bioinformatics/bty560
+
+Collado, M. C., Derrien, M., Isolauri, E., de Vos, W. M., & Salminen, S. (2007). Intestinal Integrity and Akkermansia muciniphila, a Mucin-Degrading Member of the Intestinal Microbiota Present in Infants, Adults, and the Elderly. *Applied and Environmental Microbiology*, *73*(23), 7767-7770. https://doi.org/10.1128/AEM.01477-07
 
 Dabdoub, S. M. (2016). kraken-biom: Enabling interoperative format conversion for Kraken results (Version 1.2). https://github.com/smdabdoub/kraken-biom
 
