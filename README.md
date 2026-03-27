@@ -58,6 +58,7 @@ Finally, the Chao1 index helped to estimate and better establish overall species
 
 
 ## Discussion
+This taxonomic analysis of human gut metagenomics sought to provide a more insightful context of how the abundance and diversity of many different microbiota were connected to essential biological functions of vegan and omnivorous dietary habits.  However, considering that a low sample size was often a highly major limitation in the analyses, the scope of interpretation for these results, in turn, was often difficult to justify with full confidence, making them rather less reliably effective on their own.  Nonetheless, there were still some key findings that emerged which helped to better illustrate the relevance of these other abundant taxa to human health/disease.
 
 ## References
 Andrews, S. (2010). FastQC. A quality control tool for high throughput sequence data. *Babraham Bioinformatics*. https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
