@@ -89,6 +89,8 @@ Ewels, P., Magnusson, M., Lundin, S., & Kaller, M. (2016). MultiQC: summarize an
 
 Fackelmann, G., Manghi, P., Carlino, N., Heidrich, V., Piccinno, G., Ricci, L., Piperni, E., Arre, A., Bakker, E., Creedon, A. C., Francis, L., Pujol, J. C., Davies, R., Wolf, J., Bermingham, K. M., Berry, S. E., Spector, T. D., Asnicar, F., & Segata, N. (2025). Gut microbiome signatures of vegan, vegetarian and omnivore diets and associated health outcomes across 21,561 individuals. *Nature Microbiology*, *10*, 41-52. https://doi.org/10.1038/s41564-024-01870-z
 
+Fehlner-Peach, H., Magnabosco, C., Raghavan, V., Scher, J. U., Tett, A., Cox, L. M., Gottsegen, C., Watters, A., Wiltshire-Gordon, J. D., Segata, N., Bonneau, R., & Littman, D. R. (2019). Distinct Polysaccharide Utilization Profiles of Human Intestinal Prevotella copri Isolates. *Cell Host & Microbe*, *26*(5), 680-690.e5. https://doi.org/10.1016/j.chom.2019.10.013
+
 Kageyama, A. & Benno, Y. (2000). Catenibacterium mitsuokai gen. nov., sp. nov., a gram-positive anaerobic bacterium isolated from human faeces. *International Journal of Systemic and Evolutionary Microbiology*, *50*(4), 1595-1599. https://doi.org/10.1099/00207713-50-4-1595
 
 Kohnert, E., Kreutz, C., Binder, N., Hannibal, L., Gorkiewicz, G., Muller, A., Storz, M. A., Huber, R., & Lederer, A. K. (2021). Changes in Gut Microbiota after a Four-Week Intervention with Vegan vs. Meat-Rich Diets in Healthy Participants: A Randomized Controlled Trial. *Microorganisms*, *9*(4), 727. https://doi.org/10.3390/microorganisms9040727
