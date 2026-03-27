@@ -62,7 +62,7 @@ This taxonomic analysis of human gut metagenomics sought to provide a more insig
 
 Looking at relative abundance, 
 
-Then, taking a further look into the alpha diversity of samples, it was determined that, on average, omnivorous samples appeared to have more species evenness in terms of abundance distribution, as well as strong dominance of one or more taxa, according to the Shannon and Simpson indices respectively.  However, it was the vegan samples that seemed to show more species richness on average when investigating the Chao1 index.  When comparing this to prior studies, the scientific literature has also exhibited similar disagreement in determining the dietary type with higher alpha diversity.  For example, .  In contrast, a study by Sun et al., which looked at 16S rRNA sequences of microbiota in stool samples, found that vegan microbial diversity was greater in most alpha diversity measures than omnivore diversity, especially with lowered intake of fats, meats, or carbohydrates (2023).  Perhaps the most interesting understanding from
+Then, taking a further look into the alpha diversity of samples, it was determined that, on average, omnivorous samples appeared to have more species evenness in terms of abundance distribution, as well as strong dominance of one or more taxa, according to the Shannon and Simpson indices respectively.  However, it was the vegan samples that seemed to show more species richness on average when investigating the Chao1 index.  When comparing this to prior studies, the scientific literature has also exhibited similar disagreement in determining the dietary type with higher alpha diversity, with these indices also having been similarly used.  For example, .  In contrast, a study by Sun et al., which applied all three measures, along with Ace, for 16S rRNA sequences of microbiota in stool samples, found that vegan microbial diversity was greater in most alpha diversity measures than omnivore diversity, especially with lowered intake of fats, meats, or carbohydrates (2023).  Even yet, a few studies, such as the randomized controlled trial by Kohnert et al., which used Chao1 and Simpson with many others, found no significant differences between the diets during a four-week intervention (2024). 
 
 For beta diversity, 
 
@@ -84,6 +84,8 @@ De Filippis, F., Pasolli, E., Tarallo, S., Naccarati, A., De Angelis, M., Nevian
 Ewels, P., Magnusson, M., Lundin, S., & Kaller, M. (2016). MultiQC: summarize analysis results for multiple tools and samples in a single report. *Bioinformatics*, *32*(19), 3047-3048. https://doi.org/10.1093/bioinformatics/btw354
 
 Kageyama, A. & Benno, Y. (2000). Catenibacterium mitsuokai gen. nov., sp. nov., a gram-positive anaerobic bacterium isolated from human faeces. *International Journal of Systemic and Evolutionary Microbiology*, *50*(4), 1595-1599. https://doi.org/10.1099/00207713-50-4-1595
+
+Kohnert, E., Kreutz, C., Binder, N., Hannibal, L., Gorkiewicz, G., Muller, A., Storz, M. A., Huber, R., & Lederer, A. K. (2021). Changes in Gut Microbiota after a Four-Week Intervention with Vegan vs. Meat-Rich Diets in Healthy Participants: A Randomized Controlled Trial. *Microorganisms*, *9*(4), 727. https://doi.org/10.3390/microorganisms9040727
 
 Lahti, L., Shetty, S., et al. (2017). Tools for microbiome analysis in R. Microbiome package version 1.32.0. http://microbiome.github.com/microbiome 
 
