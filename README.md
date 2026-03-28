@@ -58,7 +58,7 @@ The final part of this investigation was a differential abundance analysis betwe
 
 <img width="1920" height="1112" alt="Differential_Abundance_ANCOM-BC2" src="https://github.com/user-attachments/assets/523699aa-85eb-487d-a3e4-80e9059dc2b6" />
 
-**Figure 7**:
+**Figure 7**: Differential abundance of the log fold changes of the top 20 taxa differing between omnivore and vegan groups using ANCOM-BC2.  Since all taxa returned a non-significant adjusted p-value (*q*) of 1.00 when using the Holm-Bonferroni correction, the top 20 taxa were instead selected based on the unadjusted p-value (*p* < 0.05), meaning that significance could not be determined.  Omnivore samples were treated as the reference/intercept group for this comparison.  Negative log fold changes represent greater abundance in the omnivore group, while positive log fold changes represent greater abundance in the vegan group.
 
 
 ## Discussion
