@@ -98,6 +98,8 @@ Fackelmann, G., Manghi, P., Carlino, N., Heidrich, V., Piccinno, G., Ricci, L., 
 
 Fehlner-Peach, H., Magnabosco, C., Raghavan, V., Scher, J. U., Tett, A., Cox, L. M., Gottsegen, C., Watters, A., Wiltshire-Gordon, J. D., Segata, N., Bonneau, R., & Littman, D. R. (2019). Distinct Polysaccharide Utilization Profiles of Human Intestinal Prevotella copri Isolates. *Cell Host & Microbe*, *26*(5), 680-690.e5. https://doi.org/10.1016/j.chom.2019.10.013
 
+The Human Microbiome Project Consortium. (2012). Structure, function and diversity of the healthy human microbiome. *Nature*, *486*, 207-214. https://doi.org/10.1038/nature11234
+
 Jung, D. H., Kim, G. Y., Kim, I. Y., Seo, D. H., Nam, Y. D., Kang, H., Song, Y., & Park, C. S. (2019). *Bifidobacterium adolescentis* P2P3, a Human Gut Bacterium Having Strong Non-Gelatinized Resistant Starch-Degrading Activity. *Journal of Microbiology and Biotechnology*, *29*(12), 1904-1915. https://doi.org/10.4014/jmb.1909.09010
 
 Kageyama, A. & Benno, Y. (2000). Catenibacterium mitsuokai gen. nov., sp. nov., a gram-positive anaerobic bacterium isolated from human faeces. *International Journal of Systemic and Evolutionary Microbiology*, *50*(4), 1595-1599. https://doi.org/10.1099/00207713-50-4-1595
